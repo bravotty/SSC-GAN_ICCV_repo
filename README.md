@@ -3,6 +3,7 @@ Pytorch implementation for 'Semi-Supervised Single-Stage Controllable GANs for C
 
 
 ### SSC-GAN:Semi-Supervised Single-Stage Controllable GANs for Conditional Fine-Grained Image Generation
+Authors : Tianyi Chen, Yi Liu, Yunfei Zhang, Si Wu, Feng Liangbing and Hau San Wong
 
 ## Requirements
 - Linux or Windows 
