@@ -1,5 +1,5 @@
 # SSC-GAN_repo
-Pytorch implementation for 'Semi-Supervised Single-Stage Controllable GANs for Conditional Fine-Grained Image Generation'.[link](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Semi-Supervised_Single-Stage_Controllable_GANs_for_Conditional_Fine-Grained_Image_Generation_ICCV_2021_paper.pdf)[PDF]
+Pytorch implementation for 'Semi-Supervised Single-Stage Controllable GANs for Conditional Fine-Grained Image Generation'.[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Semi-Supervised_Single-Stage_Controllable_GANs_for_Conditional_Fine-Grained_Image_Generation_ICCV_2021_paper.pdf)
 
 
 ### SSC-GAN:Semi-Supervised Single-Stage Controllable GANs for Conditional Fine-Grained Image Generation
