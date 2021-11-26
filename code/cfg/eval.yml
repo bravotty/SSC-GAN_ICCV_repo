@@ -1,0 +1,19 @@
+DATASET_NAME: 'birds'
+DATA_DIR: './data_dir'
+SAVE_DIR: '../output_img_folder/'
+GPU_ID: '0'
+WORKERS: 1  # 4
+CLASSES : 200
+
+TRAIN:
+    FLAG: False
+    NET_G: '../models_pth/netG_latest_SSCGAN.pth'
+    NET_D: ''
+    NET_C: ''
+    BATCH_SIZE: 1
+
+GAN:
+    DF_DIM: 64
+    GF_DIM: 64
+    Z_DIM: 100
+    R_NUM: 2
