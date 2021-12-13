@@ -38,7 +38,7 @@ In `cfg/eval.yml`:
 ## Training your own model
 In `cfg/train.yml`:
 - Specify the dataset location in `DATA_DIR`.
-- Specify the number of fine-grained categories that you wish for SReGAN, in `CLASSES`.
+- Specify the number of fine-grained categories that you wish for SSC-GAN, in `CLASSES`.
 - Specify the training hyperparameters in `TRAIN`.
 - Run `python main.py --cfg cfg/train.yml`
 
